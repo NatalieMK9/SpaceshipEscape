@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 90
+  controlID: 135
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 114
+  controlID: 17
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 115
+  controlID: 18
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -513,10 +513,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 1216}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7ee2feff
+      m_ExpandedIDs: 1cfbffff94480000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -576,9 +576,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.318612, y: 1.1382316, z: -7.431838}
+    m_Target: {x: 2.9591868, y: 0.62178135, z: 13.415263}
     speed: 2
-    m_Value: {x: 3.318612, y: 1.1382316, z: -7.431838}
+    m_Value: {x: 2.9591868, y: 0.62178135, z: 13.415263}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -624,9 +624,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.01066198, y: -0.9425554, z: 0.029954532, w: 0.33273223}
+    m_Target: {x: 0.044588078, y: 0.40626493, z: -0.020035254, w: 0.91252077}
     speed: 2
-    m_Value: {x: 0.010616334, y: -0.9429911, z: 0.02996851, w: 0.33129612}
+    m_Value: {x: 0.044554967, y: 0.40760574, z: -0.020100757, w: 0.91184884}
   m_Size:
     m_Target: 10
     speed: 2
@@ -700,14 +700,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\natal\Downloads\SpaceshipEscape-main\SpaceshipEscape-main\FinalProject
+  m_LastProjectPath: C:\Users\natal\Documents\GitHub\SpaceshipEscape\FinalProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6970000
-    m_LastClickedID: 38822
-    m_ExpandedIDs: 00000000a6970000
+    m_SelectedIDs: c0510000
+    m_LastClickedID: 20928
+    m_ExpandedIDs: 00000000c0510000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -735,7 +735,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a6970000
+    m_ExpandedIDs: 00000000c0510000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
