@@ -55,9 +55,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BalloonController.cs" />
-     <Compile Include="Assets\ChangingText.cs" />
      <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
+     <Compile Include="Assets\Scripts\BalloonController.cs" />
+     <Compile Include="Assets\Scripts\ChangingText.cs" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
      <None Include="Assets\Oculus\Avatar\Resources\Materials\AvatarMaterialStateShader.cginc" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\ButtonGlow.shader" />
