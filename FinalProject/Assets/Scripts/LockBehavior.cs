@@ -14,7 +14,8 @@ public class LockBehavior : MonoBehaviour
         {
             Debug.Log("Key has been put in lock");
             CreateDebitCard();
-            card.transform.localScale = new Vector3(7.94f, 1.413f, 6.843f);
+            card.transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+            card.transform.position = new Vector3(7.94f, 1.413f, 6.843f);
         }
     }
     public void CreateDebitCard()
