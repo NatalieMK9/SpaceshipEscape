@@ -6,6 +6,7 @@ ScriptsOnlyBuild:
     - ONSPSettings
     - OVRTouchSample.Hand
     - OVRTouchSample.HandPose
+    - SpinFree
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
@@ -148,103 +149,105 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11606}
     - Class: 114
-      Script: {instanceID: 13778}
+      Script: {instanceID: 13780}
     - Class: 114
-      Script: {instanceID: 13944}
+      Script: {instanceID: 13946}
     - Class: 114
-      Script: {instanceID: 13980}
+      Script: {instanceID: 13982}
     - Class: 114
-      Script: {instanceID: 14214}
+      Script: {instanceID: 14216}
     - Class: 114
-      Script: {instanceID: 14306}
+      Script: {instanceID: 14308}
     - Class: 114
-      Script: {instanceID: 14318}
+      Script: {instanceID: 14320}
     - Class: 114
-      Script: {instanceID: 14364}
+      Script: {instanceID: 14366}
     - Class: 114
-      Script: {instanceID: 14750}
+      Script: {instanceID: 14752}
     - Class: 114
-      Script: {instanceID: 15102}
+      Script: {instanceID: 15104}
     - Class: 114
-      Script: {instanceID: 15158}
+      Script: {instanceID: 15160}
     - Class: 114
-      Script: {instanceID: 15178}
+      Script: {instanceID: 15180}
     - Class: 114
-      Script: {instanceID: 15200}
+      Script: {instanceID: 15202}
     - Class: 114
-      Script: {instanceID: 15580}
+      Script: {instanceID: 15582}
     - Class: 114
-      Script: {instanceID: 15610}
+      Script: {instanceID: 15612}
     - Class: 114
-      Script: {instanceID: 15916}
+      Script: {instanceID: 15918}
     - Class: 114
-      Script: {instanceID: 15980}
+      Script: {instanceID: 15982}
     - Class: 114
-      Script: {instanceID: 16030}
+      Script: {instanceID: 16032}
     - Class: 114
-      Script: {instanceID: 16062}
+      Script: {instanceID: 16064}
     - Class: 114
-      Script: {instanceID: 16216}
+      Script: {instanceID: 16218}
     - Class: 114
-      Script: {instanceID: 16272}
+      Script: {instanceID: 16274}
     - Class: 114
-      Script: {instanceID: 16550}
+      Script: {instanceID: 16552}
     - Class: 114
-      Script: {instanceID: 16712}
+      Script: {instanceID: 16714}
     - Class: 114
-      Script: {instanceID: 16832}
+      Script: {instanceID: 16834}
     - Class: 114
-      Script: {instanceID: 17154}
+      Script: {instanceID: 17142}
     - Class: 114
-      Script: {instanceID: 17254}
+      Script: {instanceID: 17156}
     - Class: 114
-      Script: {instanceID: 17276}
+      Script: {instanceID: 17256}
     - Class: 114
-      Script: {instanceID: 17284}
+      Script: {instanceID: 17278}
     - Class: 114
-      Script: {instanceID: 17424}
+      Script: {instanceID: 17286}
     - Class: 114
-      Script: {instanceID: 17476}
+      Script: {instanceID: 17426}
     - Class: 114
-      Script: {instanceID: 17524}
+      Script: {instanceID: 17478}
     - Class: 114
-      Script: {instanceID: 17532}
+      Script: {instanceID: 17526}
     - Class: 114
-      Script: {instanceID: 17634}
+      Script: {instanceID: 17534}
     - Class: 114
-      Script: {instanceID: 17980}
+      Script: {instanceID: 17636}
     - Class: 114
-      Script: {instanceID: 18070}
+      Script: {instanceID: 17982}
     - Class: 114
-      Script: {instanceID: 18128}
+      Script: {instanceID: 18072}
     - Class: 114
-      Script: {instanceID: 18170}
+      Script: {instanceID: 18130}
     - Class: 114
-      Script: {instanceID: 18288}
+      Script: {instanceID: 18172}
     - Class: 114
-      Script: {instanceID: 18320}
+      Script: {instanceID: 18290}
     - Class: 114
-      Script: {instanceID: 18336}
+      Script: {instanceID: 18322}
     - Class: 114
-      Script: {instanceID: 18464}
+      Script: {instanceID: 18338}
     - Class: 114
-      Script: {instanceID: 18722}
+      Script: {instanceID: 18466}
     - Class: 114
-      Script: {instanceID: 18802}
+      Script: {instanceID: 18724}
     - Class: 114
-      Script: {instanceID: 18998}
+      Script: {instanceID: 18804}
     - Class: 114
-      Script: {instanceID: 19126}
+      Script: {instanceID: 19000}
     - Class: 114
-      Script: {instanceID: 19134}
+      Script: {instanceID: 19128}
     - Class: 114
-      Script: {instanceID: 19150}
+      Script: {instanceID: 19136}
     - Class: 114
-      Script: {instanceID: 19216}
+      Script: {instanceID: 19152}
     - Class: 114
-      Script: {instanceID: 19388}
+      Script: {instanceID: 19218}
     - Class: 114
-      Script: {instanceID: 19394}
+      Script: {instanceID: 19390}
+    - Class: 114
+      Script: {instanceID: 19396}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
