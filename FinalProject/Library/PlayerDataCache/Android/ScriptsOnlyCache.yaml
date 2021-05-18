@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - ChangingText
+    - LockBehavior
     - ONSPSettings
     - OVRTouchSample.Hand
     - OVRTouchSample.HandPose
@@ -125,119 +126,121 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11628}
+      Script: {instanceID: 11586}
     - Class: 114
-      Script: {instanceID: 11630}
+      Script: {instanceID: 11588}
     - Class: 114
-      Script: {instanceID: 11632}
+      Script: {instanceID: 11590}
     - Class: 114
-      Script: {instanceID: 11634}
+      Script: {instanceID: 11592}
     - Class: 114
-      Script: {instanceID: 11636}
+      Script: {instanceID: 11594}
     - Class: 114
-      Script: {instanceID: 11638}
+      Script: {instanceID: 11596}
     - Class: 114
-      Script: {instanceID: 11640}
+      Script: {instanceID: 11598}
     - Class: 114
-      Script: {instanceID: 13768}
+      Script: {instanceID: 11600}
     - Class: 114
-      Script: {instanceID: 13934}
+      Script: {instanceID: 11602}
     - Class: 114
-      Script: {instanceID: 13970}
+      Script: {instanceID: 11604}
     - Class: 114
-      Script: {instanceID: 14204}
+      Script: {instanceID: 11606}
     - Class: 114
-      Script: {instanceID: 14244}
+      Script: {instanceID: 13778}
     - Class: 114
-      Script: {instanceID: 14298}
+      Script: {instanceID: 13944}
     - Class: 114
-      Script: {instanceID: 14310}
+      Script: {instanceID: 13980}
     - Class: 114
-      Script: {instanceID: 14356}
+      Script: {instanceID: 14214}
     - Class: 114
-      Script: {instanceID: 14580}
+      Script: {instanceID: 14306}
     - Class: 114
-      Script: {instanceID: 15096}
+      Script: {instanceID: 14318}
     - Class: 114
-      Script: {instanceID: 15152}
+      Script: {instanceID: 14364}
     - Class: 114
-      Script: {instanceID: 15172}
+      Script: {instanceID: 14750}
     - Class: 114
-      Script: {instanceID: 15194}
+      Script: {instanceID: 15102}
     - Class: 114
-      Script: {instanceID: 15404}
+      Script: {instanceID: 15158}
     - Class: 114
-      Script: {instanceID: 15576}
+      Script: {instanceID: 15178}
     - Class: 114
-      Script: {instanceID: 15606}
+      Script: {instanceID: 15200}
     - Class: 114
-      Script: {instanceID: 15912}
+      Script: {instanceID: 15580}
     - Class: 114
-      Script: {instanceID: 15976}
+      Script: {instanceID: 15610}
     - Class: 114
-      Script: {instanceID: 16026}
+      Script: {instanceID: 15916}
     - Class: 114
-      Script: {instanceID: 16058}
+      Script: {instanceID: 15980}
     - Class: 114
-      Script: {instanceID: 16212}
+      Script: {instanceID: 16030}
     - Class: 114
-      Script: {instanceID: 16268}
+      Script: {instanceID: 16062}
     - Class: 114
-      Script: {instanceID: 16546}
+      Script: {instanceID: 16216}
     - Class: 114
-      Script: {instanceID: 16670}
+      Script: {instanceID: 16272}
     - Class: 114
-      Script: {instanceID: 16710}
+      Script: {instanceID: 16550}
     - Class: 114
-      Script: {instanceID: 16830}
+      Script: {instanceID: 16712}
     - Class: 114
-      Script: {instanceID: 17152}
+      Script: {instanceID: 16832}
     - Class: 114
-      Script: {instanceID: 17252}
+      Script: {instanceID: 17154}
     - Class: 114
-      Script: {instanceID: 17274}
+      Script: {instanceID: 17254}
     - Class: 114
-      Script: {instanceID: 17282}
+      Script: {instanceID: 17276}
     - Class: 114
-      Script: {instanceID: 17422}
+      Script: {instanceID: 17284}
     - Class: 114
-      Script: {instanceID: 17474}
+      Script: {instanceID: 17424}
     - Class: 114
-      Script: {instanceID: 17522}
+      Script: {instanceID: 17476}
     - Class: 114
-      Script: {instanceID: 17530}
+      Script: {instanceID: 17524}
     - Class: 114
-      Script: {instanceID: 17632}
+      Script: {instanceID: 17532}
     - Class: 114
-      Script: {instanceID: 17978}
+      Script: {instanceID: 17634}
     - Class: 114
-      Script: {instanceID: 18068}
+      Script: {instanceID: 17980}
     - Class: 114
-      Script: {instanceID: 18126}
+      Script: {instanceID: 18070}
     - Class: 114
-      Script: {instanceID: 18168}
+      Script: {instanceID: 18128}
     - Class: 114
-      Script: {instanceID: 18286}
+      Script: {instanceID: 18170}
     - Class: 114
-      Script: {instanceID: 18318}
+      Script: {instanceID: 18288}
     - Class: 114
-      Script: {instanceID: 18334}
+      Script: {instanceID: 18320}
     - Class: 114
-      Script: {instanceID: 18462}
+      Script: {instanceID: 18336}
     - Class: 114
-      Script: {instanceID: 18720}
+      Script: {instanceID: 18464}
     - Class: 114
-      Script: {instanceID: 18800}
+      Script: {instanceID: 18722}
     - Class: 114
-      Script: {instanceID: 18996}
+      Script: {instanceID: 18802}
     - Class: 114
-      Script: {instanceID: 19124}
+      Script: {instanceID: 18998}
     - Class: 114
-      Script: {instanceID: 19132}
+      Script: {instanceID: 19126}
     - Class: 114
-      Script: {instanceID: 19148}
+      Script: {instanceID: 19134}
     - Class: 114
-      Script: {instanceID: 19214}
+      Script: {instanceID: 19150}
+    - Class: 114
+      Script: {instanceID: 19216}
     - Class: 114
       Script: {instanceID: 19388}
     - Class: 114
@@ -283,10 +286,22 @@ ScriptsOnlyBuild:
     className: Toggle
   - hash:
       serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
       Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
   - hash:
       serializedVersion: 2
       Hash: ae83e830e7a90c0aff918c4c2e520825
@@ -295,10 +310,22 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
-      Hash: aeb62f729c52c814dec86c47dcac1471
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
-    className: Text
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
   - hash:
       serializedVersion: 2
       Hash: 499fd23433e68e265d153aa6b95d0047
@@ -317,6 +344,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
   - hash:
       serializedVersion: 2
       Hash: a1f19ad47d3094e235f21b74dfc423a8
@@ -595,12 +628,6 @@ ScriptsOnlyBuild:
     className: OVRControllerTest
   - hash:
       serializedVersion: 2
-      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Image
-  - hash:
-      serializedVersion: 2
       Hash: 95e6797232b7d5831c9feb55a8582905
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
@@ -737,12 +764,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: PostProcessProfile
-  - hash:
-      serializedVersion: 2
-      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: LayoutElement
   - hash:
       serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
@@ -1037,12 +1058,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: EnumerableTestState
-  - hash:
-      serializedVersion: 2
-      Hash: cc4274b586df3c02688bac01b88bd16c
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.EventSystems
-    className: EventSystem
   - hash:
       serializedVersion: 2
       Hash: e269129a92a880f5211d20d6b89e9cf1
@@ -1589,12 +1604,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CharacterCapsule
-  - hash:
-      serializedVersion: 2
-      Hash: 5f1752ed2092162f016c19510c28a8b9
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Button
   - hash:
       serializedVersion: 2
       Hash: 50ed2751f7b39ef122ae2de986a3421b
@@ -2627,12 +2636,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: OculusSampleFramework
     className: DistanceGrabberSample
-  - hash:
-      serializedVersion: 2
-      Hash: 7072231382eb3c4871b3dd75ad0227e1
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Slider
   - hash:
       serializedVersion: 2
       Hash: 8cf111447f1f4754264a4de62c3f57df
