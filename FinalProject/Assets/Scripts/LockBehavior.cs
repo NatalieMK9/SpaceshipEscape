@@ -22,13 +22,4 @@ public class LockBehavior : MonoBehaviour
     {
         card = Instantiate(DebitCard);
     }
-    /*
-    void OnTriggerExit(Collider other)
-    {
-        // 4
-        if (other.name == "Player")
-        {
-            Debug.Log("Player out of range, resume patrol");
-        }
-    }*/
 }
