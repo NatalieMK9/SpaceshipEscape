@@ -211,12 +211,10 @@
      <Compile Include="Assets\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
      <Compile Include="Assets\Oculus\Spatializer\scripts\helpers\ONSPReflectionZone.cs" />
      <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
-     <Compile Include="Assets\Scripts\BalloonController.cs" />
      <Compile Include="Assets\Scripts\ChangingText.cs" />
      <Compile Include="Assets\Scripts\KeypadScript.cs" />
      <Compile Include="Assets\Scripts\LockBehavior.cs" />
      <Compile Include="Assets\Scripts\MegaBuster.cs" />
-     <Compile Include="Assets\Scripts\Microwave.cs" />
      <Compile Include="Assets\Scripts\PewLock.cs" />
      <Compile Include="Assets\Scripts\StartSceneChange.cs" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
