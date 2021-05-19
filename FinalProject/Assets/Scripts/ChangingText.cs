@@ -42,7 +42,7 @@ public class ChangingText : MonoBehaviour
             }
             if (timeRemaining < 600 && timeRemaining > 0)
             {
-                ScreenText.text = string.Format("{0:N2}", timeRemaining);
+                ScreenText.text = "Time Remaining:" + (string.Format("{0:N2}", timeRemaining)) + "Points Possible:" + (string.Format("{0:N2}", (timeRemaining * 2)));
             }
             //timeRemaining = 0;
             //timerIsRunning = false;
