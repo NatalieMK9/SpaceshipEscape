@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class KeypadScript : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class KeypadScript : MonoBehaviour
         {
             Debug.Log("Key has been tapped on the keypad");
             beepbeep.Play();
+            SceneManager.LoadScene("vrfinalspace", LoadSceneMode.Additive);
         }
     }
 }
