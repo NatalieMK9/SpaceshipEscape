@@ -4753,7 +4753,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: If you find something interesting in the shrubs,, try bringing it to the
-    lock on the next table!
+    crates next to the door!
 --- !u!222 &640296874
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11379,6 +11379,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DebitCard: {fileID: 315464721}
   card: {fileID: 315464721}
+  summon: 0
 --- !u!135 &1449791969
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13191,6 +13192,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PewPew: {fileID: 1028520504}
   pew: {fileID: 1028520504}
+  appear: 0
 --- !u!135 &1692068574
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13281,6 +13283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PewPew: {fileID: 0}
   pew: {fileID: 0}
+  appear: 0
 --- !u!1001 &1718836749
 PrefabInstance:
   m_ObjectHideFlags: 0
