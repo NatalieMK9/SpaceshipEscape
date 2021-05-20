@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*CHANGINGTEXT.CS
+    This code changes the display on the big monitor at the front at certain intervals. For the first thirty seconds, it explains the context of the game's story, and from then on out, it
+    displays how much time is left in the ten-minute timer and the number of points you would get if you left the room at that point.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -17,6 +22,7 @@ public class ChangingText : MonoBehaviour
 
     void Update()
     {
+        //deltaTime refers to the number of seconds that have passed since the last frame. timeRemaining is updated with each frame with the amount of seconds since the last frame removed
         timeRemaining -= Time.deltaTime;
         if (timerIsRunning)
         {
@@ -30,11 +36,11 @@ public class ChangingText : MonoBehaviour
             }
             if (timeRemaining < 615 && timeRemaining > 610)
             {
-                ScreenText.text = "If you can't get out in 10 minutes, your superiors will be mad!";
+                ScreenText.text = "Try to get out in ten minutes or less!";
             }
             if (timeRemaining < 610 && timeRemaining > 605)
             {
-                ScreenText.text = "Solve the puzzles around the room to find a way out.";
+                ScreenText.text = "Try exploring the room to find a way out.";
             }
             if (timeRemaining < 605 && timeRemaining > 600)
             {
@@ -44,8 +50,12 @@ public class ChangingText : MonoBehaviour
             {
                 ScreenText.text = "Time Remaining:" + (string.Format("{0:N2}", timeRemaining)) + "Points Possible:" + (string.Format("{0:N2}", (timeRemaining * 2)));
             }
-            //timeRemaining = 0;
-            //timerIsRunning = false;
+            //lose condition
+            if (timeRemaining < 0)
+            {
+                ScreenText.text = "It's been ten minutes, please remove your headset.";
+                timerIsRunning = false;
+            }
         }
     }
 }
